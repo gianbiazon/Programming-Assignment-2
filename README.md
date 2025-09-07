@@ -20,7 +20,7 @@ Code:
       print(RANDOM_normalized)
 
   Output:
-      <img width="588" height="287" alt="image" src="https://github.com/user-        attachments/assets/6a9f3eac-14e1-4f70-a0c2-3d049dcc2448" />
+      <img width="588" height="287" alt="image" src="https://github.com/user-attachments/assets/6a9f3eac-14e1-4f70-a0c2-3d049dcc2448" />
 
   Analysis:
           The most important part of this problem is the mathematical formula, which subtracts the data and the mean to move the distribution around zero, and normalizes the data by dividing by the standard                 deviation to produce a uniform spread. This conversion takes the original array and converts it into a standard normal distribution with a mean value of 0 and standard deviation of 1, which is the 
