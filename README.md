@@ -1,4 +1,4 @@
-#Biazon, Gian Alfred V. Programming-Assignment-2
+Biazon, Gian Alfred V. Programming-Assignment-2
 
 This repository contains solutions to identify the codes and functions incorporated in the Numpy Library and to be able to apply and use the different codes and functions in creating a Python program using the Numpy Library.
 
